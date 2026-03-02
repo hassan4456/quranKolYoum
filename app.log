@@ -1267,3 +1267,9 @@
 
 'قال رسول الله ﷺ: «من...
 2026-03-01 18:19:50,801 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"AKu8BO1V6D5OGhzL6-Ni3bH"}}
+2026-03-02 11:28:41,242 - INFO - Starting publishing process...
+2026-03-02 11:28:41,242 - INFO - Publishing page: 158
+2026-03-02 11:28:41,242 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم اجعلنا ممن يحل...
+2026-03-02 11:28:42,038 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"AnlPPzav0HQ9JUtW1nrOKAU"}}
