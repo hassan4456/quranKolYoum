@@ -1483,3 +1483,9 @@
 
 'قال عبد الله بن مسعو...
 2026-03-19 18:41:39,073 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"AZ3V_cN20OIyfZIRvht741T"}}
+2026-03-20 11:27:05,415 - INFO - Starting publishing process...
+2026-03-20 11:27:05,416 - INFO - Publishing page: 158
+2026-03-20 11:27:05,416 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'قال ابن القيم رحمه ا...
+2026-03-20 11:27:06,431 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"A6660u176CITKt0a8b8ugfH"}}
