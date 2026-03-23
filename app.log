@@ -1519,3 +1519,9 @@
 
 'اللهم اجعلنا من أهل ...
 2026-03-22 18:22:07,882 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"AYGVz8BsyKH1wGmCn7cZ0kc"}}
+2026-03-23 11:40:15,124 - INFO - Starting publishing process...
+2026-03-23 11:40:15,124 - INFO - Publishing page: 158
+2026-03-23 11:40:15,124 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم نور بالقرآن أب...
+2026-03-23 11:40:15,534 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"AhKa55j6BMGWw0wUIPU1Bur"}}
