@@ -1723,3 +1723,9 @@
 
 'اللهم نور بالقرآن أب...
 2026-04-08 19:01:22,057 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"AuKXfSqRyDb2YuMIaHad8JD"}}
+2026-04-09 11:51:04,064 - INFO - Starting publishing process...
+2026-04-09 11:51:04,065 - INFO - Publishing page: 158
+2026-04-09 11:51:04,065 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'قال ابن القيم رحمه ا...
+2026-04-09 11:51:05,774 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"Ax-pETeGcxTd2_NdvFi5gRs"}}
