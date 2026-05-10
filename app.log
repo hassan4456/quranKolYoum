@@ -2148,3 +2148,9 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='graph.facebook.co
 
 'اللهم نور بالقرآن أب...
 2026-05-09 18:42:56,934 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"A3GBzzA3MDi6XtD53kFJvPD"}}
+2026-05-10 11:44:26,601 - INFO - Starting publishing process...
+2026-05-10 11:44:26,601 - INFO - Publishing page: 158
+2026-05-10 11:44:26,601 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'قال خباب بن الأرت رض...
+2026-05-10 11:44:27,381 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"Am96OvUIEBgIMgacu2Oi6aL"}}
