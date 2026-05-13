@@ -2184,3 +2184,9 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='graph.facebook.co
 
 'اللهم اجعلنا ممن يحل...
 2026-05-12 19:27:05,522 - ERROR - HTTP Error: 403 - {"error":{"message":"(#200) This endpoint is deprecated since the required permission publish_actions is deprecated","type":"OAuthException","code":200,"fbtrace_id":"Agl9CTUYnzQqzl_pzKAXpkA"}}
+2026-05-13 13:07:38,698 - INFO - Starting publishing process...
+2026-05-13 13:07:38,698 - INFO - Publishing page: 158
+2026-05-13 13:07:38,699 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم اجعلنا ممن يقي...
+2026-05-13 13:07:39,178 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Wednesday, 13-May-26 06:07:38 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"A5MLveHQryeHUglPCd3y7R1"}}
