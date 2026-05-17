@@ -2232,3 +2232,9 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='graph.facebook.co
 
 'قال ابن القيم رحمه ا...
 2026-05-16 18:47:52,840 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Saturday, 16-May-26 11:47:52 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AfBEB00m9dGGJ6watGgQ-sH"}}
+2026-05-17 11:57:35,709 - INFO - Starting publishing process...
+2026-05-17 11:57:35,710 - INFO - Publishing page: 158
+2026-05-17 11:57:35,710 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم اجعلنا ممن يقي...
+2026-05-17 11:57:36,063 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Sunday, 17-May-26 04:57:35 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AYfu9Ya3dRF1FjQdMJhcN9g"}}
