@@ -2286,3 +2286,9 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='graph.facebook.co
 
 'قال عمر بن الخطاب رض...
 2026-05-21 14:01:08,337 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Thursday, 21-May-26 07:01:08 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AT2KAou2HPJYqjS2tOKu0-_"}}
+2026-05-21 19:42:07,586 - INFO - Starting publishing process...
+2026-05-21 19:42:07,586 - INFO - Publishing page: 158
+2026-05-21 19:42:07,586 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم ذكرنا من القرآ...
+2026-05-21 19:42:08,264 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Thursday, 21-May-26 12:42:08 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"As_5g0HreajMAQDBeSSzNWY"}}
