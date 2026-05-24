@@ -2322,3 +2322,9 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='graph.facebook.co
 
 'اللهم اجعلنا ممن يقي...
 2026-05-24 11:58:32,876 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Sunday, 24-May-26 04:58:32 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AIrSOkVLMn88MmuIh8A7apJ"}}
+2026-05-24 18:59:51,031 - INFO - Starting publishing process...
+2026-05-24 18:59:51,032 - INFO - Publishing page: 158
+2026-05-24 18:59:51,032 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم اجعل القرآن لن...
+2026-05-24 18:59:51,492 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Wednesday, 13-May-26 03:41:56 PDT. The current time is Sunday, 24-May-26 11:59:51 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"Au0yxaIVjZyx5MqbKkSzhUc"}}
