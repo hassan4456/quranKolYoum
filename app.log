@@ -3048,3 +3048,9 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='graph.facebook.co
 
 'اللهم ألبسنا به الحل...
 2026-07-23 18:57:21,233 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.","type":"OAuthException","code":190,"error_subcode":460,"fbtrace_id":"AXfnZDg7J8Vvb0NOSqExB7a"}}
+2026-07-24 12:15:13,894 - INFO - Starting publishing process...
+2026-07-24 12:15:13,894 - INFO - Publishing page: 158
+2026-07-24 12:15:13,894 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 158
+
+'اللهم اجعل القرآن لن...
+2026-07-24 12:15:14,321 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.","type":"OAuthException","code":190,"error_subcode":460,"fbtrace_id":"AAkC-6gpGOOISgUR-WpALP3"}}
